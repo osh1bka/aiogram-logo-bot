@@ -6,7 +6,8 @@
 ## ⚡️ Телеграмм бот на библиотеке aiogram, с помощью которого вы сможете наложить логотип на фото/видео, просто отправляя их боту.
 
 ❗️ Перед запуском необходимо установить необходимые модули.
-```pip install aaiogram
+```
+pip install aaiogram
 pip install Pillow
 pip install moviepy
 ```
@@ -25,7 +26,8 @@ pip install moviepy
 ## ⚡️ Telegram bot based on the aiogram library, with which you can put a logo on a photo / video by simply sending them to the bot.
 
 ❗️ Before starting, you need to install the necessary modules.
-```pip install aaiogram
+```
+pip install aaiogram
 pip install Pillow
 pip install moviepy
 ```
