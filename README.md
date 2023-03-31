@@ -10,7 +10,7 @@
 pip install Pillow
 pip install moviepy
 ```
-##⚡️ Использование
+## ⚡️ Использование
 
 - Установить необходимые модули
 - Поместить логотип, предварительно переименовав его в logo-small.png в папку с файлом main.py
@@ -18,7 +18,7 @@ pip install moviepy
 - Запустить файл main.py
 - Для редактирования изображений/видео, просто отправьте материал ранее созданному боту
 
-##🛠 Телеграм канал автора - https://t.me/osh1script
+## 🛠 Телеграм канал автора - https://t.me/osh1script
 
 ## 🇺🇸 VERSION
 
@@ -29,7 +29,7 @@ pip install moviepy
 pip install Pillow
 pip install moviepy
 ```
-##⚡️ Usage
+## ⚡️ Usage
 
 - Install required modules
 - Place the logo, after renaming it to logo-small.png in the folder with the main.py file
