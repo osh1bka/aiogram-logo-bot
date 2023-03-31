@@ -48,8 +48,8 @@ async def download_video(message: types.Message):
               .set_pos(("center"))) 
      
     final = CompositeVideoClip([video1, logo])  
-    final.write_videofile(r"kino10.mp4", audio=True) 
-    await bot.send_video(message.chat.id, open('kino10.mp4', 'rb'))
+    final.write_videofile(r"filename.mp4", audio=True) 
+    await bot.send_video(message.chat.id, open('filename.mp4', 'rb'))
 
 # Разработчик https://t.me/osh1script
 # Разработчик https://t.me/osh1script
