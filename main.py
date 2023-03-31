@@ -13,7 +13,7 @@ dp = Dispatcher(bot)
 
 @dp.message_handler(commands=["start"])
 async def welcome(message):
-    await message.answer("Привет, я помогу тебе наложить лого нептуна на твое фото")
+    await message.answer("Привет, я помогу тебе наложить логотип на твое фото/видео")
 
 # Разработчик https://t.me/osh1script
 
