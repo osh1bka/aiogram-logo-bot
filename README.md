@@ -7,7 +7,7 @@
 
 ❗️ Перед запуском необходимо установить необходимые модули.
 ```
-pip install aaiogram
+pip install aiogram
 pip install Pillow
 pip install moviepy
 ```
@@ -27,7 +27,7 @@ pip install moviepy
 
 ❗️ Before starting, you need to install the necessary modules.
 ```
-pip install aaiogram
+pip install aiogram
 pip install Pillow
 pip install moviepy
 ```
